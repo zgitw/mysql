@@ -1,1 +1,1 @@
-SELECT * FROM raw_sales LIMIT 10
+SELECT * FROM raw_sales LIMIT 1
